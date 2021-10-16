@@ -330,7 +330,7 @@ public class PlayerMovement : MonoBehaviour
                 rifleAmmunation -= 1;
                 Rigidbody2D rb = rifleBullet.GetComponent<Rigidbody2D>();
                 rb.AddForce(firePointRifle.right * bulletForce, ForceMode2D.Impulse);
-                CameraShake.Instance.ShakeCamera(0.1f, .1f);
+                CameraShake.Instance.ShakeCamera(0.2f, .1f);
             }
             else if(LeftAngle == true)
             {
@@ -338,7 +338,7 @@ public class PlayerMovement : MonoBehaviour
                 rifleAmmunation -= 1;
                 Rigidbody2D rb = rifleBullet.GetComponent<Rigidbody2D>();
                 rb.AddForce(firePointSecondRifle.right * bulletForce, ForceMode2D.Impulse);
-                CameraShake.Instance.ShakeCamera(0.1f, .1f);
+                CameraShake.Instance.ShakeCamera(0.2f, .1f);
             }
             
             timer = 0;

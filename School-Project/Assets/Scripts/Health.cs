@@ -68,6 +68,7 @@ public class Health : MonoBehaviour
         {
             isInvincible = true;
             health -= 1;
+            CameraShake.Instance.ShakeCamera(0.5f, .1f);
         }
 
         if (collision.gameObject.tag == "Healthkit")
