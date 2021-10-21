@@ -5,6 +5,7 @@ using UnityEngine;
 public class SpawnChestScript : MonoBehaviour
 {
     public GameObject Chest;
+    public GameObject Shop;
 
     bool oneTime = true;
 
@@ -17,18 +18,22 @@ public class SpawnChestScript : MonoBehaviour
 
     void Update()
     {
-        GameObject[] chestRooms = GameObject.FindGameObjectsWithTag("ChestSpawner");
-
         if (StageManager.canLoadNewScene == true && oneTime == true)
         {
+            GameObject[] chestRooms = GameObject.FindGameObjectsWithTag("ChestSpawner");
 
-            for (int i = 3; i < chestRooms.Length; i++)
+            int randonAmountOfChests = Random.Range(2,3);
+            Debug.Log(randonAmountOfChests);
+
+            for (int i = 0; i < randonAmountOfChests; i++)
             {
-                GameObject temp = chestRooms[i];
-                Destroy(temp);
+                Vector2 roomPosChest = chestRooms[i].transform.position;
+                Instantiate(Chest, roomPosChest, Quaternion.identity);
             }
 
-            Instantiate(Chest, transform.position, Quaternion.identity);
+            Vector2 roomPosShop = chestRooms[randonAmountOfChests + 1].transform.position;
+            Instantiate(Shop, roomPosShop, Quaternion.identity);
+            
             oneTime = false;
         }
     }

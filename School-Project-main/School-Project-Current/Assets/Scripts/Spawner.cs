@@ -39,6 +39,5 @@ public class Spawner : MonoBehaviour
         {
             Spawner[i].tag = spawnerTags[i];
         }
-        Debug.Log(spawnerTags.Length);
     }
 }
