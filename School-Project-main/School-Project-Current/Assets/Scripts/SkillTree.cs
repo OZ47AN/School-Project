@@ -8,7 +8,7 @@ public class SkillTree : MonoBehaviour
     public GameObject newButton;
     public GameObject canvas;
 
-    int xPosition = 50;
+    int xPosition = -8;
     int yPosition;
 
     int anzahlButtons = 0;
@@ -21,16 +21,16 @@ public class SkillTree : MonoBehaviour
     {
         if (anzahlButtons < maxButtons)
         {
-            xPosition = xPosition + 150;
-            yPosition = Random.Range(50, 470);
+            xPosition = xPosition + 3;
+            yPosition = Random.Range(-4, 4);
 
             buff[anzahlButtons] = yPosition;
 
-            GameObject myButton = Instantiate(newButton, new Vector2(xPosition, yPosition), Quaternion.identity) as GameObject;
+            GameObject myButton = Instantiate(newButton, new Vector2(xPosition, yPosition), Quaternion.identity, canvas.transform) as GameObject;
 
-            myButton.transform.SetParent(canvas.transform);
+            Debug.Log(buff[anzahlButtons]);
+
             anzahlButtons += 1;
-
         }
     }
 }

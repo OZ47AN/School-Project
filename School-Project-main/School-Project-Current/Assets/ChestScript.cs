@@ -18,6 +18,7 @@ public class ChestScript : MonoBehaviour
     public GameObject[] Weapons;
 
     int randomWeapon;
+
     float bulletForce = 1.5f;
 
     bool oneTime = true;
