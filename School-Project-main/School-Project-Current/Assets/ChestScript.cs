@@ -15,6 +15,9 @@ public class ChestScript : MonoBehaviour
     GameObject spawnedWeapon2;
     GameObject spawnedWeapon3;
 
+    public Sprite openedChestSprite;
+
+    SpriteRenderer chestSprite;
     public GameObject[] Weapons;
 
     int randomWeapon;
@@ -25,6 +28,11 @@ public class ChestScript : MonoBehaviour
 
     bool canOpenChest = false;
 
+    private void Start()
+    {
+        chestSprite = GetComponent<SpriteRenderer>();
+
+    }
     private void Update()
     {
         if (HasItDropped && bulletForce >= 0 && oneTime)
@@ -55,6 +63,7 @@ public class ChestScript : MonoBehaviour
 
         if (canOpenChest && HasItDropped == false && Input.GetKeyDown(KeyCode.R))
         {
+            chestSprite.sprite = openedChestSprite;
             DropDownItem();
         }
     }
@@ -106,4 +115,6 @@ public class ChestScript : MonoBehaviour
             rb3.Sleep();
         }
     }
+
+
 }
