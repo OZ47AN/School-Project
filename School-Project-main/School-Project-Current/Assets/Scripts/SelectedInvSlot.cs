@@ -38,7 +38,7 @@ public class SelectedInvSlot : MonoBehaviour
         {
             currentSlot = 2;
         }
-
+        
 
         if (currentSlot == 0)
         {

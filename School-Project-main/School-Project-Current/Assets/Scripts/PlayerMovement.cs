@@ -17,10 +17,12 @@ public class PlayerMovement : MonoBehaviour
     private Transform MagicWeaponTransform;
     private Transform RifleTransform;
     private Transform SecondRifleTransform;
+    private Transform bowTransform;
 
     public GameObject Gun;
     public GameObject SecondGun;
     public GameObject MagicWeapon;
+    public GameObject Bow;
     public GameObject Rifle;
     public GameObject SecondRifle;
     public float angle;
@@ -49,6 +51,7 @@ public class PlayerMovement : MonoBehaviour
     private bool canShoot = true;
 
     public static int rifleAmmunation = 20;
+   
 
     public ParticleSystem dust;
 
@@ -69,6 +72,12 @@ public class PlayerMovement : MonoBehaviour
     public ParticleSystem bombParticle;
 
     Vector2 bombPos;
+   
+    //for the bow --------------------
+      
+      public Transform firePointBow;
+      public GameObject bulletBowPrefab;
+    //-------------------------------
 
     private void Awake()
     {
@@ -78,6 +87,7 @@ public class PlayerMovement : MonoBehaviour
         MagicWeaponTransform = transform.Find("MagicWeapon");
         RifleTransform = transform.Find("Rifle");
         SecondRifleTransform = transform.Find("SecondRifle");
+        bowTransform = transform.Find("Bow");
     }
 
     void Update()
@@ -177,6 +187,16 @@ public class PlayerMovement : MonoBehaviour
             Rifle.SetActive(false);
             SecondRifle.SetActive(false);
         }
+        if(Weapon == 4)
+        {
+            Bow.SetActive(true);
+        }
+        else
+        {
+            Bow.SetActive(false);
+        }
+      
+        
 
         if (isRunning == true)
         {
@@ -275,6 +295,8 @@ public class PlayerMovement : MonoBehaviour
         RifleTransform.transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle));
         SecondRifleTransform.transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle));
 
+        bowTransform.transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle));
+
     }
 
     private void HandleShooting()
@@ -287,7 +309,10 @@ public class PlayerMovement : MonoBehaviour
         {
             ShootMagicWeapon();
         }
-        
+        else if (Input.GetMouseButtonDown(0) && Weapon == 4)
+        {
+            ShootBow();
+        }
         if (Input.GetMouseButton(0) && Weapon == 3)
         {
             ShootRifle();
@@ -297,7 +322,15 @@ public class PlayerMovement : MonoBehaviour
             timer = .2f;
         }
     }
-    
+
+
+    void ShootBow()
+    {
+        GameObject bulletBow = Instantiate(bulletBowPrefab, firePointBow.position, firePointBow.rotation);
+        Rigidbody2D rb = bulletBow.GetComponent<Rigidbody2D>();
+        rb.AddForce(firePointBow.right * bulletForce, ForceMode2D.Impulse);
+        CameraShake.Instance.ShakeCamera(0.5f, .1f);
+    }
     void ShootGun()
     {
         GameObject bullet = Instantiate(bulletPrefab, firePointGun.position, firePointGun.rotation);
@@ -340,7 +373,9 @@ public class PlayerMovement : MonoBehaviour
             timer = 0;
         }
     }
+  
 
+    
     void CreateDust()
     {
         dust.Play();
