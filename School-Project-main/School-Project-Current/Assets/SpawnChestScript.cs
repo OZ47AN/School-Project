@@ -31,8 +31,12 @@ public class SpawnChestScript : MonoBehaviour
                 Instantiate(Chest, roomPosChest, Quaternion.identity);
             }
 
-            Vector2 roomPosShop = chestRooms[randonAmountOfChests + 1].transform.position;
-            Instantiate(Shop, roomPosShop, Quaternion.identity);
+            if (chestRooms.Length + 1 >= randonAmountOfChests)
+            {
+                Vector2 roomPosShop = chestRooms[randonAmountOfChests + 1].transform.position;
+                Instantiate(Shop, roomPosShop, Quaternion.identity);
+            }
+            
             
             oneTime = false;
         }

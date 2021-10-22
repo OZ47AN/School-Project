@@ -17,12 +17,15 @@ public class PlayerMovement : MonoBehaviour
     private Transform MagicWeaponTransform;
     private Transform RifleTransform;
     private Transform SecondRifleTransform;
+    private Transform bowTransform;
 
     public GameObject Gun;
     public GameObject SecondGun;
     public GameObject MagicWeapon;
     public GameObject Rifle;
     public GameObject SecondRifle;
+    public GameObject Bow;
+
     public float angle;
 
     private bool LeftAngle;
@@ -34,10 +37,12 @@ public class PlayerMovement : MonoBehaviour
     public Transform firePointMagicWeapon;
     public Transform firePointRifle;
     public Transform firePointSecondRifle;
+    public Transform firePointBow;
 
     public GameObject bulletPrefab;
     public GameObject magicBulletPrefab;
-    public GameObject rifleBulletPrefab;
+    public GameObject rifleBulletPrefab; 
+    public GameObject bowBulletPrefab;
 
     //PlayerMovement
 
@@ -66,13 +71,15 @@ public class PlayerMovement : MonoBehaviour
 
     bool bombisPlanted;
 
+    public static bool canShootBow = false;
+
     public ParticleSystem bombParticle;
 
     Vector2 bombPos;
 
     private void Awake()
     {
-        SecondGun.SetActive(false);
+        bowTransform = transform.Find("Bow");
         GunTransform = transform.Find("Gun");
         SecondGunTransform = transform.Find("SecondGun");
         MagicWeaponTransform = transform.Find("MagicWeapon");
@@ -178,6 +185,15 @@ public class PlayerMovement : MonoBehaviour
             SecondRifle.SetActive(false);
         }
 
+        if (Weapon == 4)
+        {
+            Bow.SetActive(true);
+        }
+        else
+        {
+            Bow.SetActive(false);
+        }
+
         if (isRunning == true)
         {
 
@@ -274,6 +290,8 @@ public class PlayerMovement : MonoBehaviour
 
         RifleTransform.transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle));
         SecondRifleTransform.transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle));
+        bowTransform.transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle));
+
 
     }
 
@@ -287,7 +305,11 @@ public class PlayerMovement : MonoBehaviour
         {
             ShootMagicWeapon();
         }
-        
+        else if (canShootBow && Weapon == 4)
+        {
+            ShootBow();
+        }
+
         if (Input.GetMouseButton(0) && Weapon == 3)
         {
             ShootRifle();
@@ -312,6 +334,15 @@ public class PlayerMovement : MonoBehaviour
         Rigidbody2D rb = magicBullet.GetComponent<Rigidbody2D>();
         rb.AddForce(firePointMagicWeapon.right * bulletForce, ForceMode2D.Impulse);
         CameraShake.Instance.ShakeCamera(0.5f, .1f);
+    }
+    void ShootBow()
+    {
+        GameObject bowBullet = Instantiate(bowBulletPrefab, firePointBow.position, firePointBow.rotation);
+        Rigidbody2D rb = bowBullet.GetComponent<Rigidbody2D>();
+        rb.AddForce(firePointBow.right * bulletForce, ForceMode2D.Impulse);
+        CameraShake.Instance.ShakeCamera(0.3f, .1f);
+
+        canShootBow = false;
     }
 
     void ShootRifle()
