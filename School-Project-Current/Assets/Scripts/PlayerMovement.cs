@@ -211,6 +211,15 @@ public class PlayerMovement : MonoBehaviour
             bowSlider.SetActive(false);
         }
 
+        if (Weapon == 5)
+        {
+            Boomerang.SetActive(true);
+        }
+        else
+        {
+            Boomerang.SetActive(false);
+        }
+
         if (isRunning == true)
         {
 
@@ -410,6 +419,7 @@ public class PlayerMovement : MonoBehaviour
         }
         else if(!Input.GetMouseButton(0) && boomerangIsThrown)
         {
+            boomerangTimer += Time.deltaTime;
             BoomerangRB.Sleep();
             boomerangBullet.transform.position = Vector2.MoveTowards(boomerangBullet.transform.position, playerPos, 10 * Time.deltaTime);
 
@@ -418,6 +428,7 @@ public class PlayerMovement : MonoBehaviour
                 Destroy(boomerangBullet);
                 boomerangIsThrown = false;
                 boomerangOneTime = false;
+                boomerangTimer = 0;
             }
         }
 
@@ -429,6 +440,8 @@ public class PlayerMovement : MonoBehaviour
         if (boomerangTimer > 4)
         {
             Destroy(boomerangBullet);
+            boomerangIsThrown = false;
+            boomerangOneTime = false;
             boomerangTimer = 0;
         }
 

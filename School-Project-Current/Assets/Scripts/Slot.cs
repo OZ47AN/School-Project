@@ -45,6 +45,10 @@ public class Slot : MonoBehaviour
                 {
                     PlayerMovement.Weapon = 4;
                 }
+                else if (SelectedInvSlot.currentSlot == i && inventory.slots[i].transform.GetChild(0).name == "BoomerangInv(Clone)")
+                {
+                    PlayerMovement.Weapon = 5;
+                }
             }
             else if (SelectedInvSlot.currentSlot == i && inventory.slots[i].transform.childCount == 0)
             {
