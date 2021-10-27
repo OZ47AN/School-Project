@@ -341,8 +341,11 @@ public class PlayerMovement : MonoBehaviour
         {
             ShootBow();
         }
+        else if (Weapon == 5)
+        {
+            ShootBoomerang();
+        }
 
-        ShootBoomerang();
 
         if (Input.GetMouseButton(0) && Weapon == 3)
         {
