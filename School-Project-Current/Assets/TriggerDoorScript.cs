@@ -11,11 +11,5 @@ public class TriggerDoorScript : MonoBehaviour
         }
     }
 
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        if (collision.gameObject.tag == "Player")
-        {
-            SpawnEnemy.enteredRoom = true;
-        }
-    }
+    
 }

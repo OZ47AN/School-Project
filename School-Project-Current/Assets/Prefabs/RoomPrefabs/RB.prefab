@@ -6280,6 +6280,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6618248457916095315}
   - component: {fileID: 2690504089514891481}
+  - component: {fileID: 3847483061212940655}
   m_Layer: 0
   m_Name: Spawn Enemy
   m_TagString: Bottom
@@ -6320,6 +6321,32 @@ MonoBehaviour:
   secondDoor: {fileID: 7558855206501661879}
   firstDoorAnimation: {fileID: 8033033716315400951}
   secondDoorAnimation: {fileID: 2811568624895809388}
+--- !u!61 &3847483061212940655
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7418063792009025474}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 17, y: 17}
+  m_EdgeRadius: 0
 --- !u!1 &8425266803388056905
 GameObject:
   m_ObjectHideFlags: 0
@@ -6332,7 +6359,6 @@ GameObject:
   - component: {fileID: 642853698697842705}
   - component: {fileID: 8033033716315400951}
   - component: {fileID: 9082481072102858081}
-  - component: {fileID: 5343086130467577767}
   m_Layer: 0
   m_Name: Door
   m_TagString: Untagged
@@ -6450,18 +6476,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.2391141}
   m_EdgeRadius: 0
---- !u!114 &5343086130467577767
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8425266803388056905}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 117a7a9587036ee46999f01b7d2a3768, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &8821026174684927404
 GameObject:
   m_ObjectHideFlags: 0
@@ -6567,7 +6581,6 @@ GameObject:
   - component: {fileID: 62654669356422549}
   - component: {fileID: 2811568624895809388}
   - component: {fileID: 7558855206501661879}
-  - component: {fileID: 447189407024131320}
   m_Layer: 0
   m_Name: Door2
   m_TagString: Untagged
@@ -6672,7 +6685,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.007883936, y: -0.010458648}
+  m_Offset: {x: -0.00058580935, y: -0.079721175}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -6683,17 +6696,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.29310519, y: 0.6484028}
+  m_Size: {x: 0.43420216, y: 0.24200122}
   m_EdgeRadius: 0
---- !u!114 &447189407024131320
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9213116516899866471}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 117a7a9587036ee46999f01b7d2a3768, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
