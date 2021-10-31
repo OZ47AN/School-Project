@@ -9,7 +9,7 @@ public class EnemyScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Bullet")
+        if (collision.gameObject.tag == "Bullet" || collision.gameObject.tag == "Pet")
         {
             HitEnemy();
 
@@ -17,7 +17,6 @@ public class EnemyScript : MonoBehaviour
             {
 
                 Die();
-                WallsDown();
             }
         }
     }
@@ -26,13 +25,6 @@ public class EnemyScript : MonoBehaviour
         EnemyHealth -= 50;
     }
     
-    private void WallsDown()
-    {
-        
-        SpawnEnemy.wallsDown = true;
-
-    }
-
     private void Die()
     {
         Destroy(gameObject);

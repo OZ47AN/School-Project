@@ -21,6 +21,9 @@ namespace Pathfinding
 		private Transform enemyTarget;
 		public AIPath aipath;
 
+		bool enemyGotHit;
+		float waitForNextHit;
+
 		IAstarAI ai;
 
 		void OnEnable()
@@ -42,27 +45,47 @@ namespace Pathfinding
 		void Update()
 		{
 			FindClosestEnemy();
-
-			if (Input.GetKey(KeyCode.Z) && gameObject.name == "Pet")
-			{
-				aipath.endReachedDistance = 0;
-				aipath.maxSpeed = 15;
-				aipath.slowdownDistance = 0;
-				if (enemyTarget != null && ai != null) ai.destination = enemyTarget.position;
+            if (enemyTarget != null)
+            {
+				if ((gameObject.transform.position - enemyTarget.position).sqrMagnitude < 25 && enemyGotHit == false)
+				{
+					aipath.endReachedDistance = 0;
+					aipath.maxSpeed = 11;
+					aipath.slowdownDistance = 2;
+					if (enemyTarget != null && ai != null) ai.destination = enemyTarget.position;
+					if ((gameObject.transform.position - enemyTarget.position).sqrMagnitude < 1)
+					{
+						enemyGotHit = true;
+					}
+				}
+				else if (enemyGotHit == false)
+				{
+					aipath.endReachedDistance = 3;
+					aipath.maxSpeed = 8;
+					aipath.slowdownDistance = 6;
+					if (target != null && ai != null) ai.destination = target.position;
+				}
 			}
-			else
-			{
+			
+            if (enemyGotHit)
+            {
 				aipath.endReachedDistance = 3;
-				aipath.maxSpeed = 8;
+				aipath.maxSpeed = 11;
 				aipath.slowdownDistance = 6;
 				if (target != null && ai != null) ai.destination = target.position;
-			}
+				waitForNextHit += Time.deltaTime;
+				if (waitForNextHit > 3)
+				{
+					enemyGotHit = false;
+					waitForNextHit = 0;
+				}
+            }
 		}
 
 		public void FindClosestEnemy()
 		{
 			GameObject[] gos;
-			gos = GameObject.FindGameObjectsWithTag("Test");
+			gos = GameObject.FindGameObjectsWithTag("GhostEnemy");
 			GameObject closest = null;
 			float distance = Mathf.Infinity;
 			Vector3 position = transform.position;
@@ -78,7 +101,6 @@ namespace Pathfinding
 				}
 			}
 			//Debug.Log(closest);
-
 		}
 	}
 }

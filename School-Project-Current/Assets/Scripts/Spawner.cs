@@ -15,10 +15,6 @@ public class Spawner : MonoBehaviour
         Invoke("Test", 1.0f);
     }
 
-    void Update()
-    {
-    }
-
     void Test()
     {
         GameObject[] Spawner = GameObject.FindGameObjectsWithTag("Spawner");

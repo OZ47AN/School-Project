@@ -15,38 +15,34 @@ public class SpawnEnemy : MonoBehaviour
     [SerializeField] Animator secondDoorAnimation;
     private GameObject temp;
 
+    private GameObject spawnedEnemy;
+
     public static bool wallsDown;
 
     bool oneTime;
+    bool enemyIsSpawned;
 
     int posX;
     int posY;
 
+
     void Start()
     {
-        posX = Random.Range(-10, 10);
-        posY = Random.Range(-10, 10);
+        posX = Random.Range(-7, 7);
+        posY = Random.Range(-7, 7);
         Debug.Log(posX + posY);
     }
 
 
     void Update()
     {
-        GameObject[] bottomObjects = GameObject.FindGameObjectsWithTag("Bottom");
-
-        for (int i = 3; i < bottomObjects.Length; i++)
-        {
-            GameObject temp = bottomObjects[i];
-            Destroy(temp);
-        }
-
-        if (wallsDown == true)
+        if (GameObject.FindGameObjectsWithTag("GhostEnemy").Length == 0 && enemyIsSpawned == true)
         {
             firstDoorAnimation.SetBool("DoorOpen", true);
             secondDoorAnimation.SetBool("DoorOpen", true);
             firstDoor.isTrigger = true;
             secondDoor.isTrigger = true;
-            wallsDown = false;
+            enemyIsSpawned = false;
         }
     }
 
@@ -54,8 +50,8 @@ public class SpawnEnemy : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            Instantiate(Enemy, new Vector2(transform.position.x + posX, transform.position.y + posY), Quaternion.identity);
-
+            GameObject spawnedEnemy = Instantiate(Enemy, new Vector2(transform.position.x + posX, transform.position.y + posY), Quaternion.identity);
+            enemyIsSpawned = true;
             firstDoor.isTrigger = false;
             secondDoor.isTrigger = false;
             firstDoorAnimation.SetBool("DoorOpen", false);

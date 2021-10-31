@@ -38,16 +38,19 @@ public class SpawnChestScript : MonoBehaviour
             for (int i = 0; i < randonAmountOfChests; i++)
             {
                 Vector2 roomPosChest = chestRooms[i].transform.position;
+                GameObject alreadyUsedRoom = chestRooms[i].transform.GetChild(0).gameObject;
+                Destroy(alreadyUsedRoom);
                 Instantiate(Chest, roomPosChest, Quaternion.identity);
-
             }
 
             if (chestRooms.Length >= randonAmountOfChests +1)
             {
                 Vector2 roomPosShop = chestRooms[randonAmountOfChests].transform.position;
+                GameObject alreadyUsedRoom = chestRooms[randonAmountOfChests].transform.GetChild(0).gameObject;
+                Destroy(alreadyUsedRoom);
                 Instantiate(Shop, roomPosShop, Quaternion.identity);
             }
-            
+
             oneTime = false;
         }
     }

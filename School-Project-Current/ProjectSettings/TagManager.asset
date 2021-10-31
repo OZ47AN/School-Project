@@ -24,6 +24,7 @@ TagManager:
   - Rifle
   - ChestSpawner
   - Test
+  - Pet
   layers:
   - Default
   - TransparentFX
