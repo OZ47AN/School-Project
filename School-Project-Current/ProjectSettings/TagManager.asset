@@ -23,6 +23,7 @@ TagManager:
   - EyeEnemyBullet
   - Rifle
   - ChestSpawner
+  - Test
   layers:
   - Default
   - TransparentFX

@@ -42,9 +42,9 @@ public class SpawnChestScript : MonoBehaviour
 
             }
 
-            if (chestRooms.Length + 1 <= randonAmountOfChests)
+            if (chestRooms.Length >= randonAmountOfChests +1)
             {
-                Vector2 roomPosShop = chestRooms[randonAmountOfChests + 1].transform.position;
+                Vector2 roomPosShop = chestRooms[randonAmountOfChests].transform.position;
                 Instantiate(Shop, roomPosShop, Quaternion.identity);
             }
             

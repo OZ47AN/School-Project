@@ -31,7 +31,7 @@ public class PetScript : MonoBehaviour
         if ((gameObject.transform.position - Player.transform.position).sqrMagnitude > 20 && hideTextbubble == false && oneTime == false)
         {
             int randomText = Random.Range(0, BubbleTexts.Length);
-            Debug.Log(BubbleTexts[randomText]);
+            //Debug.Log(BubbleTexts[randomText]);
             text.text = BubbleTexts[randomText];
             Textbubble.SetBool("Textbubble", true);
             oneTime = true;

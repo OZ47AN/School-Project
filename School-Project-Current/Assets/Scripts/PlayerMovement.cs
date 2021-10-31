@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System;
+using TMPro;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -107,6 +108,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        //Debug.Log(Weapon);
         playerPos = gameObject.transform.position;
 
         if (GameObject.FindGameObjectsWithTag("Bomb").Length == 1)
@@ -268,6 +270,11 @@ public class PlayerMovement : MonoBehaviour
         {
             plantBomb();
         }
+
+        if (Input.GetMouseButtonDown(0) && Weapon == 2)
+        {
+            ShootMagicWeapon();
+        }
     }
 
     public void plantBomb()
@@ -297,6 +304,7 @@ public class PlayerMovement : MonoBehaviour
     {
         movement.Normalize();
         rb.velocity = new Vector2(movement.x * speed * Time.fixedDeltaTime, movement.y * speed * Time.fixedDeltaTime);
+
         HandleAiming();
 
         if (canShoot == true)
@@ -333,10 +341,6 @@ public class PlayerMovement : MonoBehaviour
         {
             ShootGun();
         }
-        else if (Input.GetMouseButtonDown(0) && Weapon == 2)
-        {
-            ShootMagicWeapon();
-        }
         else if (canShootBow && Weapon == 4)
         {
             ShootBow();
@@ -367,6 +371,7 @@ public class PlayerMovement : MonoBehaviour
 
     void ShootMagicWeapon()
     {
+        Debug.Log("Niceee");
         GameObject magicBullet = Instantiate(magicBulletPrefab, firePointMagicWeapon.position, firePointMagicWeapon.rotation);
         Rigidbody2D rb = magicBullet.GetComponent<Rigidbody2D>();
         rb.AddForce(firePointMagicWeapon.right * bulletForce, ForceMode2D.Impulse);
@@ -411,7 +416,6 @@ public class PlayerMovement : MonoBehaviour
 
     void ShootBoomerang()
     {
-        Debug.Log(boomerangTimer);
         if (Input.GetMouseButton(0) && boomerangIsThrown == false && boomerangOneTime == false)
         {
             boomerangBullet = Instantiate(boomerangBulletPrefab, firePointBoomerang.position, firePointBoomerang.rotation);

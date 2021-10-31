@@ -5,27 +5,28 @@ using UnityEngine;
 public class SpawnEnemy : MonoBehaviour
 {
     public GameObject Enemy;
-    private Collider2D wall;
+    [SerializeField] Collider2D firstDoor;
+    [SerializeField] Collider2D secondDoor;
+
     private bool SpawnEnemyOnce = true;
 
-    public Animator Door;
+    [SerializeField] Animator firstDoorAnimation;
+    [SerializeField] Animator secondDoorAnimation;
     private GameObject temp;
     public static bool wallsDown;
 
+    public static bool enteredRoom;
+
+    bool oneTime;
+
     void Start()
     {
-        wall = GetComponent<Collider2D>();
+
     }
 
 
     void Update()
     {
-        if (wallsDown == true)
-        {
-            Door.SetBool("DoorOpen", true);
-            wall.isTrigger = true;
-        }
-
         GameObject[] bottomObjects = GameObject.FindGameObjectsWithTag("Bottom");
 
         for (int i = 1; i < bottomObjects.Length; i++)
@@ -33,24 +34,26 @@ public class SpawnEnemy : MonoBehaviour
             GameObject temp = bottomObjects[i];
             Destroy(temp);
         }
-    }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.tag == "Player" && SpawnEnemyOnce == true)
+        if (enteredRoom == true && oneTime == false)
         {
             Instantiate(Enemy, transform.position, Quaternion.identity);
-        }
-    }
 
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        if (collision.gameObject.tag == "Player")
-        {
-            SpawnEnemyOnce = false;
-            wall.isTrigger = false;
-            Door.SetBool("DoorOpen", false);
+            firstDoor.isTrigger = false;
+            secondDoor.isTrigger = false;
+            firstDoorAnimation.SetBool("DoorOpen", false);
+            secondDoorAnimation.SetBool("DoorOpen", false);
+
             Debug.Log("works");
+            oneTime = true;
+        }
+
+        if (wallsDown == true)
+        {
+            firstDoorAnimation.SetBool("DoorOpen", true);
+            secondDoorAnimation.SetBool("DoorOpen", true);
+            firstDoor.isTrigger = true;
+            secondDoor.isTrigger = true;
         }
     }
 }

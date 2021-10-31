@@ -4,30 +4,53 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
+[ExecuteInEditMode()]
 public class Tooltip : MonoBehaviour
 {
-    private Text tooltipText;
-    private RectTransform backgroundRectTransform;
+    public TextMeshProUGUI headerField;
+
+    public TextMeshProUGUI ContentField;
+
+    public LayoutElement layoutElement;
+
+    public int characterWrapLimit;
+
+    public RectTransform rectTransform;
 
     private void Awake()
     {
-        backgroundRectTransform = transform.Find("Background").GetComponent<RectTransform>();
-        tooltipText = transform.Find("TooltipText").GetComponent<Text>();
-
-        ShowTooltip("Random tooltip text");
+        rectTransform = GetComponent<RectTransform>();
     }
-    private void ShowTooltip(string tooltipString)
+    public void SetText(string content, string header = "")
     {
-        gameObject.SetActive(true);
+        if (string.IsNullOrEmpty(header))
+        {
+            headerField.gameObject.SetActive(false);
+        }
+        else
+        {
+            headerField.gameObject.SetActive(true);
+            headerField.text = header;
+        }
+        ContentField.text = content;
+        int headerLength = headerField.text.Length;
+        int contenLength = headerField.text.Length;
+        layoutElement.enabled = (headerLength > characterWrapLimit || contenLength > characterWrapLimit) ? true : false;
+    }
+    private void Update()
+    {
+        if (Application.isEditor)
+        {
+            int headerLength = headerField.text.Length;
+            int contenLength = headerField.text.Length;
+            layoutElement.enabled = (headerLength > characterWrapLimit || contenLength > characterWrapLimit) ? true : false;
+        }
+        Vector2 position = Input.mousePosition;
+        transform.position = position;
+        float pivotX = position.x / Screen.width;
+        float pivotY = position.y / Screen.height;
+        rectTransform.pivot = new Vector2(0, 0);
 
-        tooltipText.text = tooltipString;
-        float textPaddingSize = 4f;
-        Vector2 backgroundSize = new Vector2(tooltipText.preferredWidth + textPaddingSize * 2f, tooltipText.preferredHeight + textPaddingSize * 2f);
-        backgroundRectTransform.sizeDelta = backgroundSize;
     }
 
-    private void HideTooltip()
-    {
-        gameObject.SetActive(false);
-    } 
 }
