@@ -17,6 +17,9 @@ public class SpawnEnemy : MonoBehaviour
 
     private GameObject spawnedEnemy;
 
+    public GameObject enemySpawnTarget;
+
+    GameObject[] enemySpawnSpots;
     public static bool wallsDown;
 
     bool oneTime;
@@ -25,14 +28,7 @@ public class SpawnEnemy : MonoBehaviour
     int posX;
     int posY;
 
-
-    void Start()
-    {
-        posX = Random.Range(-7, 7);
-        posY = Random.Range(-7, 7);
-        Debug.Log(posX + posY);
-    }
-
+    int randomAmountOfEnemies;
 
     void Update()
     {
@@ -43,6 +39,11 @@ public class SpawnEnemy : MonoBehaviour
             firstDoor.isTrigger = true;
             secondDoor.isTrigger = true;
             enemyIsSpawned = false;
+
+            for (int i = 0; i < randomAmountOfEnemies; i++)
+            {
+                Destroy(enemySpawnSpots[i]);
+            }
         }
     }
 
@@ -50,15 +51,38 @@ public class SpawnEnemy : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            GameObject spawnedEnemy = Instantiate(Enemy, new Vector2(transform.position.x + posX, transform.position.y + posY), Quaternion.identity);
-            enemyIsSpawned = true;
+            randomAmountOfEnemies = Random.Range(1, 3);
+            Debug.Log(randomAmountOfEnemies);
+
+            for (int i = 0; i < randomAmountOfEnemies; i++)
+            {
+                posX = Random.Range(-7, 7);
+                posY = Random.Range(-7, 7);
+
+                Instantiate(enemySpawnTarget, new Vector2(transform.position.x + posX, transform.position.y + posY), Quaternion.identity);
+
+                StartCoroutine(spawnEnemy());
+            }
+
             firstDoor.isTrigger = false;
             secondDoor.isTrigger = false;
             firstDoorAnimation.SetBool("DoorOpen", false);
             secondDoorAnimation.SetBool("DoorOpen", false);
-
-            Debug.Log("works");
             oneTime = true;
+        }
+    }
+
+    IEnumerator spawnEnemy()
+    {
+        yield return new WaitForSecondsRealtime(1);
+
+        enemySpawnSpots = GameObject.FindGameObjectsWithTag("enemySpawnTarget");
+
+        for (int i = 0; i < randomAmountOfEnemies; i++)
+        {
+            Vector2 enemySpawn = enemySpawnSpots[i].transform.position;
+            Instantiate(Enemy, enemySpawn, Quaternion.identity);
+            enemyIsSpawned = true;
         }
     }
 

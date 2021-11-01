@@ -8,11 +8,6 @@ public class PathfindingScript : MonoBehaviour
     public static bool readyToScan = false;
     bool oneTime = true;
 
-    void Start()
-    {
-        
-    }
-
     void Update()
     {
 

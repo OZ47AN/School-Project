@@ -1138,6 +1138,7 @@ MonoBehaviour:
   secondDoor: {fileID: 1133757591460992397}
   firstDoorAnimation: {fileID: 2004648695205395177}
   secondDoorAnimation: {fileID: 2004648695205395177}
+  enemySpawnTarget: {fileID: 1248532179091405682, guid: 71cb422733066454aae90bfa7da2e067, type: 3}
 --- !u!61 &7422743621898247927
 BoxCollider2D:
   m_ObjectHideFlags: 0

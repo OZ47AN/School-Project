@@ -17,7 +17,7 @@ namespace Pathfinding
 	public class PetMovement : VersionedMonoBehaviour
 	{
 		/// <summary>The object that the AI should move to</summary>
-		public Transform target;
+		[SerializeField] Transform target;
 		private Transform enemyTarget;
 		public AIPath aipath;
 
@@ -26,7 +26,8 @@ namespace Pathfinding
 
 		IAstarAI ai;
 
-		void OnEnable()
+
+        void OnEnable()
 		{
 			ai = GetComponent<IAstarAI>();
 			// Update the destination right before searching for a path as well.
@@ -45,8 +46,8 @@ namespace Pathfinding
 		void Update()
 		{
 			FindClosestEnemy();
-            if (enemyTarget != null)
-            {
+			if (enemyTarget != null)
+			{
 				if ((gameObject.transform.position - enemyTarget.position).sqrMagnitude < 25 && enemyGotHit == false)
 				{
 					aipath.endReachedDistance = 0;
@@ -58,17 +59,18 @@ namespace Pathfinding
 						enemyGotHit = true;
 					}
 				}
-				else if (enemyGotHit == false)
-				{
-					aipath.endReachedDistance = 3;
-					aipath.maxSpeed = 8;
-					aipath.slowdownDistance = 6;
-					if (target != null && ai != null) ai.destination = target.position;
-				}
+				
 			}
-			
-            if (enemyGotHit)
-            {
+			else if (enemyGotHit == false)
+			{
+				aipath.endReachedDistance = 3;
+				aipath.maxSpeed = 8;
+				aipath.slowdownDistance = 6;
+				if (target != null && ai != null) ai.destination = target.position;
+			}
+
+			if (enemyGotHit)
+			{
 				aipath.endReachedDistance = 3;
 				aipath.maxSpeed = 11;
 				aipath.slowdownDistance = 6;
@@ -79,7 +81,7 @@ namespace Pathfinding
 					enemyGotHit = false;
 					waitForNextHit = 0;
 				}
-            }
+			}
 		}
 
 		public void FindClosestEnemy()

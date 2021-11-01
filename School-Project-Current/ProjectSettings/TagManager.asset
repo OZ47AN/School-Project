@@ -25,6 +25,7 @@ TagManager:
   - ChestSpawner
   - Test
   - Pet
+  - enemySpawnTarget
   layers:
   - Default
   - TransparentFX
