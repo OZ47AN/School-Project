@@ -1235,8 +1235,8 @@ MonoBehaviour:
   text: {fileID: 561814143}
   BubbleTexts:
   - Wait!
-  - Du Huen
-  - Pisser
+  - Text2
+  - Text3
 --- !u!1 &243908674
 GameObject:
   m_ObjectHideFlags: 0
