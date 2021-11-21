@@ -31,28 +31,28 @@ public class Slot : MonoBehaviour
             {
                 if (SelectedInvSlot.currentSlot == i && inventory.slots[i].transform.GetChild(0).name == "WeaponInv(Clone)")
                 {
-                    PlayerMovement.Weapon = 1;
+                    PlayerWeapon.Weapon = 1;
                 }
                 else if (SelectedInvSlot.currentSlot == i && inventory.slots[i].transform.GetChild(0).name == "StaffInv(Clone)")
                 {
-                    PlayerMovement.Weapon = 2;
+                    PlayerWeapon.Weapon = 2;
                 }
                 else if (SelectedInvSlot.currentSlot == i && inventory.slots[i].transform.GetChild(0).name == "RifleInv(Clone)")
                 {
-                    PlayerMovement.Weapon = 3;
+                    PlayerWeapon.Weapon = 3;
                 }
                 else if (SelectedInvSlot.currentSlot == i && inventory.slots[i].transform.GetChild(0).name == "BowInv(Clone)")
                 {
-                    PlayerMovement.Weapon = 4;
+                    PlayerWeapon.Weapon = 4;
                 }
                 else if (SelectedInvSlot.currentSlot == i && inventory.slots[i].transform.GetChild(0).name == "BoomerangInv(Clone)")
                 {
-                    PlayerMovement.Weapon = 5;
+                    PlayerWeapon.Weapon = 5;
                 }
             }
             else if (SelectedInvSlot.currentSlot == i && inventory.slots[i].transform.childCount == 0)
             {
-                PlayerMovement.Weapon = 0;
+                PlayerWeapon.Weapon = 0;
             }
         }
     }

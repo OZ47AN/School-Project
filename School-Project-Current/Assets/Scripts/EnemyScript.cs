@@ -29,5 +29,6 @@ public class EnemyScript : MonoBehaviour
     {
         Destroy(gameObject);
         Instantiate(particle, transform.position, Quaternion.identity);
+        BuyWeapon.moneyAmount += 3;
     }
 }

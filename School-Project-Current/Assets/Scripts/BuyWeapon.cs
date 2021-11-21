@@ -31,6 +31,7 @@ public class BuyWeapon : MonoBehaviour
                     Instantiate(itemButtonPistol, inventory.slots[i].transform, false);
                     moneyAmount -= 10;
                     Destroy(gameObject);
+                    TooltipSystem.Hide();
                     break;
                 }
             }
@@ -49,6 +50,7 @@ public class BuyWeapon : MonoBehaviour
                     Instantiate(itemButtonStaff, inventory.slots[i].transform, false);
                     moneyAmount -= 5;
                     Destroy(gameObject);
+                    TooltipSystem.Hide();
                     break;
                 }
             }
@@ -67,6 +69,7 @@ public class BuyWeapon : MonoBehaviour
                     Instantiate(itemButtonRifle, inventory.slots[i].transform, false);
                     moneyAmount -= 15;
                     Destroy(gameObject);
+                    TooltipSystem.Hide();
                     break;
                 }
             }

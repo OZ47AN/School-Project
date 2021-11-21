@@ -26,6 +26,7 @@ TagManager:
   - Test
   - Pet
   - enemySpawnTarget
+  - DevilBoss
   layers:
   - Default
   - TransparentFX

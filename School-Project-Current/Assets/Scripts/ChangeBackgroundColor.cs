@@ -5,7 +5,7 @@ using UnityEngine;
 public class ChangeBackgroundColor : MonoBehaviour
 {
     public Color greenWall;
-
+    public Color blueWall;
 
     public Camera cam;
 
@@ -17,9 +17,13 @@ public class ChangeBackgroundColor : MonoBehaviour
 
     void Update()
     {
-        if (PlayerMovement.nextStage == 1)
+        if (PlayerWeapon.nextStage == 1)
         {
             cam.backgroundColor = greenWall;
+        }
+        else if (PlayerWeapon.nextStage == 2)
+        {
+            cam.backgroundColor = blueWall;
         }
     }
 }

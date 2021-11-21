@@ -10,6 +10,8 @@ public class Spawner : MonoBehaviour
     GameObject[] SpawnerObject;
     string[] spawnerTags = new string[] { "Enemy", "Enemy", "Boss", "Basement"};
 
+    public AudioSource backgroundMusic;
+
     void Start()
     {
         Invoke("Test", 1.0f);
@@ -21,7 +23,7 @@ public class Spawner : MonoBehaviour
 
         if (Spawner.Length != 4)
         {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(1);
             StageManager.canLoadNewScene = false;
         }
         else
@@ -29,6 +31,7 @@ public class Spawner : MonoBehaviour
             StageManager.canLoadNewScene = true;
             LoadSceneAnimtion.SetTrigger("StartGame");
             PathfindingScript.readyToScan = true;
+            backgroundMusic.Play();
         }
 
         for (int i = 0; i < Spawner.Length; i++)

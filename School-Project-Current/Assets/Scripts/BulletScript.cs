@@ -14,7 +14,7 @@ public class BulletScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "GhostEnemy")
+        if (collision.gameObject.tag == "GhostEnemy" || collision.gameObject.tag == "DevilBoss")
         {
             Destroy(gameObject);
         }

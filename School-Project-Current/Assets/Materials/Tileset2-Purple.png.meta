@@ -1,0 +1,7884 @@
+fileFormatVersion: 2
+guid: e1c59ae7203c4a94a96d74069c448561
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3680910827329960498
+    second: Tileset2-Purple_0
+  - first:
+      213: -5478186766540912686
+    second: Tileset2-Purple_1
+  - first:
+      213: -4998711253335439757
+    second: Tileset2-Purple_2
+  - first:
+      213: -8688205919020234174
+    second: Tileset2-Purple_3
+  - first:
+      213: 5214738894793988147
+    second: Tileset2-Purple_4
+  - first:
+      213: 7989274767927652014
+    second: Tileset2-Purple_5
+  - first:
+      213: -5691012751941601279
+    second: Tileset2-Purple_6
+  - first:
+      213: 7068441645610128189
+    second: Tileset2-Purple_7
+  - first:
+      213: 4316926301762208095
+    second: Tileset2-Purple_8
+  - first:
+      213: -4576273783326183908
+    second: Tileset2-Purple_9
+  - first:
+      213: -447281692070354195
+    second: Tileset2-Purple_10
+  - first:
+      213: -932998354123029739
+    second: Tileset2-Purple_11
+  - first:
+      213: 2916827903384369045
+    second: Tileset2-Purple_12
+  - first:
+      213: 4606834484458595057
+    second: Tileset2-Purple_13
+  - first:
+      213: -1874010957197843687
+    second: Tileset2-Purple_14
+  - first:
+      213: 4831282496577613642
+    second: Tileset2-Purple_15
+  - first:
+      213: 295115299751390396
+    second: Tileset2-Purple_16
+  - first:
+      213: 3842179069728427804
+    second: Tileset2-Purple_17
+  - first:
+      213: 9003437607178643358
+    second: Tileset2-Purple_18
+  - first:
+      213: 4581959258995267974
+    second: Tileset2-Purple_19
+  - first:
+      213: -8682901832602965332
+    second: Tileset2-Purple_20
+  - first:
+      213: -6705992671728427921
+    second: Tileset2-Purple_21
+  - first:
+      213: -4024731424234670183
+    second: Tileset2-Purple_22
+  - first:
+      213: -2271510440511712249
+    second: Tileset2-Purple_23
+  - first:
+      213: -2643684556626845520
+    second: Tileset2-Purple_24
+  - first:
+      213: -5821408532829401007
+    second: Tileset2-Purple_25
+  - first:
+      213: -1574963389037415809
+    second: Tileset2-Purple_26
+  - first:
+      213: -604084087553830922
+    second: Tileset2-Purple_27
+  - first:
+      213: -4819478370789118641
+    second: Tileset2-Purple_28
+  - first:
+      213: 6288271204604176312
+    second: Tileset2-Purple_29
+  - first:
+      213: -2954922458538249837
+    second: Tileset2-Purple_30
+  - first:
+      213: 608841503657253979
+    second: Tileset2-Purple_31
+  - first:
+      213: 718007183720690793
+    second: Tileset2-Purple_32
+  - first:
+      213: 3759176433332251338
+    second: Tileset2-Purple_33
+  - first:
+      213: 7626160326644306593
+    second: Tileset2-Purple_34
+  - first:
+      213: -2927280635326506926
+    second: Tileset2-Purple_35
+  - first:
+      213: 6416115978187210003
+    second: Tileset2-Purple_36
+  - first:
+      213: 789570000239804228
+    second: Tileset2-Purple_37
+  - first:
+      213: 4301740764514001730
+    second: Tileset2-Purple_38
+  - first:
+      213: 6370749011924837333
+    second: Tileset2-Purple_39
+  - first:
+      213: -1667269374310768073
+    second: Tileset2-Purple_40
+  - first:
+      213: -7948458349598502337
+    second: Tileset2-Purple_41
+  - first:
+      213: -7660896056146839376
+    second: Tileset2-Purple_42
+  - first:
+      213: 7585070318460315543
+    second: Tileset2-Purple_43
+  - first:
+      213: 3149512252387258557
+    second: Tileset2-Purple_44
+  - first:
+      213: -1119179427485195133
+    second: Tileset2-Purple_45
+  - first:
+      213: -2648217028496149086
+    second: Tileset2-Purple_46
+  - first:
+      213: 624937605968524872
+    second: Tileset2-Purple_47
+  - first:
+      213: 718580293814907623
+    second: Tileset2-Purple_48
+  - first:
+      213: 3316809775619996341
+    second: Tileset2-Purple_49
+  - first:
+      213: 457821900656846962
+    second: Tileset2-Purple_50
+  - first:
+      213: -7277623261333023252
+    second: Tileset2-Purple_51
+  - first:
+      213: -3852161186973787419
+    second: Tileset2-Purple_52
+  - first:
+      213: -8616113655069418266
+    second: Tileset2-Purple_53
+  - first:
+      213: 1106406422362430208
+    second: Tileset2-Purple_54
+  - first:
+      213: -4666741409748086957
+    second: Tileset2-Purple_55
+  - first:
+      213: 132763867779128303
+    second: Tileset2-Purple_56
+  - first:
+      213: 1109720492968372531
+    second: Tileset2-Purple_57
+  - first:
+      213: 2873572715437075063
+    second: Tileset2-Purple_58
+  - first:
+      213: -9031314353226654454
+    second: Tileset2-Purple_59
+  - first:
+      213: 7541091943051055176
+    second: Tileset2-Purple_60
+  - first:
+      213: 8047858218964774953
+    second: Tileset2-Purple_61
+  - first:
+      213: 2811055460698513450
+    second: Tileset2-Purple_62
+  - first:
+      213: -8735269737962694155
+    second: Tileset2-Purple_63
+  - first:
+      213: 6734174545340291532
+    second: Tileset2-Purple_64
+  - first:
+      213: -1418557164299386109
+    second: Tileset2-Purple_65
+  - first:
+      213: 7719455295830858850
+    second: Tileset2-Purple_66
+  - first:
+      213: 2003174541341063923
+    second: Tileset2-Purple_67
+  - first:
+      213: 5540610397365145230
+    second: Tileset2-Purple_68
+  - first:
+      213: 1068584132676471518
+    second: Tileset2-Purple_69
+  - first:
+      213: 411368620825630836
+    second: Tileset2-Purple_70
+  - first:
+      213: -4419094148896718819
+    second: Tileset2-Purple_71
+  - first:
+      213: 2946071972386367187
+    second: Tileset2-Purple_72
+  - first:
+      213: 1256842198284425384
+    second: Tileset2-Purple_73
+  - first:
+      213: -6518937881239831590
+    second: Tileset2-Purple_74
+  - first:
+      213: 179169526605760750
+    second: Tileset2-Purple_75
+  - first:
+      213: 6962984397927541437
+    second: Tileset2-Purple_76
+  - first:
+      213: -6091180514883490509
+    second: Tileset2-Purple_77
+  - first:
+      213: -7825595377840182689
+    second: Tileset2-Purple_78
+  - first:
+      213: 31371361549467157
+    second: Tileset2-Purple_79
+  - first:
+      213: -9133426336840947840
+    second: Tileset2-Purple_80
+  - first:
+      213: 2273167664731935439
+    second: Tileset2-Purple_81
+  - first:
+      213: -3045683648226331267
+    second: Tileset2-Purple_82
+  - first:
+      213: 245172541771911113
+    second: Tileset2-Purple_83
+  - first:
+      213: 5150183158102697017
+    second: Tileset2-Purple_84
+  - first:
+      213: 7281337704627760662
+    second: Tileset2-Purple_85
+  - first:
+      213: 3754622887520822789
+    second: Tileset2-Purple_86
+  - first:
+      213: -915697096607538115
+    second: Tileset2-Purple_87
+  - first:
+      213: -7352452577339780136
+    second: Tileset2-Purple_88
+  - first:
+      213: 8014922638275259617
+    second: Tileset2-Purple_89
+  - first:
+      213: 8507243251503720359
+    second: Tileset2-Purple_90
+  - first:
+      213: 167467223561639997
+    second: Tileset2-Purple_91
+  - first:
+      213: -2122373282494540474
+    second: Tileset2-Purple_92
+  - first:
+      213: -7092483053749517677
+    second: Tileset2-Purple_93
+  - first:
+      213: -8407790454070861136
+    second: Tileset2-Purple_94
+  - first:
+      213: -6356982091295790631
+    second: Tileset2-Purple_95
+  - first:
+      213: -2338142350566421226
+    second: Tileset2-Purple_96
+  - first:
+      213: 4856878487020402581
+    second: Tileset2-Purple_97
+  - first:
+      213: 2351417300042276669
+    second: Tileset2-Purple_98
+  - first:
+      213: 2559977674554300353
+    second: Tileset2-Purple_99
+  - first:
+      213: -934246882659128307
+    second: Tileset2-Purple_100
+  - first:
+      213: -3119277399142810150
+    second: Tileset2-Purple_101
+  - first:
+      213: -6792301405745939966
+    second: Tileset2-Purple_102
+  - first:
+      213: -674018525654832611
+    second: Tileset2-Purple_103
+  - first:
+      213: -2352935607837275358
+    second: Tileset2-Purple_104
+  - first:
+      213: -3074212833770232349
+    second: Tileset2-Purple_105
+  - first:
+      213: 7210088663349268547
+    second: Tileset2-Purple_106
+  - first:
+      213: -920211379394756972
+    second: Tileset2-Purple_107
+  - first:
+      213: 3990344419026467807
+    second: Tileset2-Purple_108
+  - first:
+      213: 4992068251336618044
+    second: Tileset2-Purple_109
+  - first:
+      213: 6282405573507713156
+    second: Tileset2-Purple_110
+  - first:
+      213: -7150453639339362728
+    second: Tileset2-Purple_111
+  - first:
+      213: 3436466448421894584
+    second: Tileset2-Purple_112
+  - first:
+      213: -2757016480488856539
+    second: Tileset2-Purple_113
+  - first:
+      213: -2935053621067953743
+    second: Tileset2-Purple_114
+  - first:
+      213: -1276131781242312447
+    second: Tileset2-Purple_115
+  - first:
+      213: -2753067338458793818
+    second: Tileset2-Purple_116
+  - first:
+      213: 622758670082385391
+    second: Tileset2-Purple_117
+  - first:
+      213: -2920993459208841495
+    second: Tileset2-Purple_118
+  - first:
+      213: -2120433096125113007
+    second: Tileset2-Purple_119
+  - first:
+      213: 959231394651639317
+    second: Tileset2-Purple_120
+  - first:
+      213: 7597002254110034438
+    second: Tileset2-Purple_121
+  - first:
+      213: 7089374896508556077
+    second: Tileset2-Purple_122
+  - first:
+      213: 2869669326546170086
+    second: Tileset2-Purple_123
+  - first:
+      213: 4996525480941096104
+    second: Tileset2-Purple_124
+  - first:
+      213: -6595023441090034277
+    second: Tileset2-Purple_125
+  - first:
+      213: -3946607686365863075
+    second: Tileset2-Purple_126
+  - first:
+      213: -3255459338348016511
+    second: Tileset2-Purple_127
+  - first:
+      213: -5499909220181724556
+    second: Tileset2-Purple_128
+  - first:
+      213: -4442740395317597580
+    second: Tileset2-Purple_129
+  - first:
+      213: -7572995900894325671
+    second: Tileset2-Purple_130
+  - first:
+      213: 141188717961659365
+    second: Tileset2-Purple_131
+  - first:
+      213: -6323336266291603625
+    second: Tileset2-Purple_132
+  - first:
+      213: -7266867503978112272
+    second: Tileset2-Purple_133
+  - first:
+      213: 1649629897306273696
+    second: Tileset2-Purple_134
+  - first:
+      213: 4577497197511649151
+    second: Tileset2-Purple_135
+  - first:
+      213: 2947335855614294070
+    second: Tileset2-Purple_136
+  - first:
+      213: -8450855218776074915
+    second: Tileset2-Purple_137
+  - first:
+      213: -771946433761784014
+    second: Tileset2-Purple_138
+  - first:
+      213: -6868080806643184158
+    second: Tileset2-Purple_139
+  - first:
+      213: -5512514630833689674
+    second: Tileset2-Purple_140
+  - first:
+      213: -8606576024954433698
+    second: Tileset2-Purple_141
+  - first:
+      213: -1368333166515066785
+    second: Tileset2-Purple_142
+  - first:
+      213: -7350432126980104634
+    second: Tileset2-Purple_143
+  - first:
+      213: -4883938715096485107
+    second: Tileset2-Purple_144
+  - first:
+      213: 8187648746144099218
+    second: Tileset2-Purple_145
+  - first:
+      213: -7534735314146009465
+    second: Tileset2-Purple_146
+  - first:
+      213: 1647730054605374662
+    second: Tileset2-Purple_147
+  - first:
+      213: 8865454385781122306
+    second: Tileset2-Purple_148
+  - first:
+      213: -7776817129247395786
+    second: Tileset2-Purple_149
+  - first:
+      213: 4705638145715831791
+    second: Tileset2-Purple_150
+  - first:
+      213: 7273040698502667567
+    second: Tileset2-Purple_151
+  - first:
+      213: -4828150862279944036
+    second: Tileset2-Purple_152
+  - first:
+      213: 5067392009489274041
+    second: Tileset2-Purple_153
+  - first:
+      213: -8428800485453106276
+    second: Tileset2-Purple_154
+  - first:
+      213: 1849122008634606405
+    second: Tileset2-Purple_155
+  - first:
+      213: 2671002341918510393
+    second: Tileset2-Purple_156
+  - first:
+      213: -2957428423882218128
+    second: Tileset2-Purple_157
+  - first:
+      213: -8362852666936989619
+    second: Tileset2-Purple_158
+  - first:
+      213: 2263166083907176266
+    second: Tileset2-Purple_159
+  - first:
+      213: 643123912557172403
+    second: Tileset2-Purple_160
+  - first:
+      213: -3494408569666383354
+    second: Tileset2-Purple_161
+  - first:
+      213: -4430862814726085114
+    second: Tileset2-Purple_162
+  - first:
+      213: -7841769254807373185
+    second: Tileset2-Purple_163
+  - first:
+      213: -3379265555018993978
+    second: Tileset2-Purple_164
+  - first:
+      213: 8523301765359896368
+    second: Tileset2-Purple_165
+  - first:
+      213: 8614683028582620627
+    second: Tileset2-Purple_166
+  - first:
+      213: 8994344829007458928
+    second: Tileset2-Purple_167
+  - first:
+      213: 9165592512633593012
+    second: Tileset2-Purple_168
+  - first:
+      213: 2110686720662539437
+    second: Tileset2-Purple_169
+  - first:
+      213: 6951065038089930431
+    second: Tileset2-Purple_170
+  - first:
+      213: -2773662357417043888
+    second: Tileset2-Purple_171
+  - first:
+      213: -7138181388373710000
+    second: Tileset2-Purple_172
+  - first:
+      213: 7446796723713548347
+    second: Tileset2-Purple_173
+  - first:
+      213: -3714785383033585141
+    second: Tileset2-Purple_174
+  - first:
+      213: 4924897364924468758
+    second: Tileset2-Purple_175
+  - first:
+      213: 289287266185292745
+    second: Tileset2-Purple_176
+  - first:
+      213: 866081964334949774
+    second: Tileset2-Purple_177
+  - first:
+      213: -5302799534495086410
+    second: Tileset2-Purple_178
+  - first:
+      213: 750926839892158500
+    second: Tileset2-Purple_179
+  - first:
+      213: -3798472687166001848
+    second: Tileset2-Purple_180
+  - first:
+      213: 283480421442365580
+    second: Tileset2-Purple_181
+  - first:
+      213: 8665936954133687823
+    second: Tileset2-Purple_182
+  - first:
+      213: -7703197224136919487
+    second: Tileset2-Purple_183
+  - first:
+      213: 1581990143424944124
+    second: Tileset2-Purple_184
+  - first:
+      213: -2514630133603899357
+    second: Tileset2-Purple_185
+  - first:
+      213: 3578761157457729958
+    second: Tileset2-Purple_186
+  - first:
+      213: -899526842947184448
+    second: Tileset2-Purple_187
+  - first:
+      213: -3529829813379512063
+    second: Tileset2-Purple_188
+  - first:
+      213: -2685790916692451114
+    second: Tileset2-Purple_189
+  - first:
+      213: -266234764243732773
+    second: Tileset2-Purple_190
+  - first:
+      213: 3788666213995823803
+    second: Tileset2-Purple_191
+  - first:
+      213: -8500508309450787865
+    second: Tileset2-Purple_192
+  - first:
+      213: 8589964043440401901
+    second: Tileset2-Purple_193
+  - first:
+      213: 1581378160135359418
+    second: Tileset2-Purple_194
+  - first:
+      213: -1411592405662431327
+    second: Tileset2-Purple_195
+  - first:
+      213: -5153075157610903838
+    second: Tileset2-Purple_196
+  - first:
+      213: 7423909121363727059
+    second: Tileset2-Purple_197
+  - first:
+      213: 51564722391277981
+    second: Tileset2-Purple_198
+  - first:
+      213: 8248683186716173685
+    second: Tileset2-Purple_199
+  - first:
+      213: 1673155705199945257
+    second: Tileset2-Purple_200
+  - first:
+      213: 4502091470657171203
+    second: Tileset2-Purple_201
+  - first:
+      213: -2513686652152576047
+    second: Tileset2-Purple_202
+  - first:
+      213: 5271042044012194410
+    second: Tileset2-Purple_203
+  - first:
+      213: -2556151599283408643
+    second: Tileset2-Purple_204
+  - first:
+      213: 5196839746485512516
+    second: Tileset2-Purple_205
+  - first:
+      213: -5549002087570475536
+    second: Tileset2-Purple_206
+  - first:
+      213: -5548724039606691393
+    second: Tileset2-Purple_207
+  - first:
+      213: 1496567231767352731
+    second: Tileset2-Purple_208
+  - first:
+      213: -96702818850454531
+    second: Tileset2-Purple_209
+  - first:
+      213: 6465737899196100065
+    second: Tileset2-Purple_210
+  - first:
+      213: 2966310362305448343
+    second: Tileset2-Purple_211
+  - first:
+      213: -3522719964399185843
+    second: Tileset2-Purple_212
+  - first:
+      213: -2551970649040628241
+    second: Tileset2-Purple_213
+  - first:
+      213: 7880700365938204876
+    second: Tileset2-Purple_214
+  - first:
+      213: 7044353029785643551
+    second: Tileset2-Purple_215
+  - first:
+      213: 6178384993385969020
+    second: Tileset2-Purple_216
+  - first:
+      213: 1621709396357418038
+    second: Tileset2-Purple_217
+  - first:
+      213: -3339229422286506988
+    second: Tileset2-Purple_218
+  - first:
+      213: -4173947886008063286
+    second: Tileset2-Purple_219
+  - first:
+      213: 6165433337984790100
+    second: Tileset2-Purple_220
+  - first:
+      213: -3735774905404005884
+    second: Tileset2-Purple_221
+  - first:
+      213: -3728237145969906406
+    second: Tileset2-Purple_222
+  - first:
+      213: 7892502201995776991
+    second: Tileset2-Purple_223
+  - first:
+      213: -159460264684265225
+    second: Tileset2-Purple_224
+  - first:
+      213: -2418196663490524573
+    second: Tileset2-Purple_225
+  - first:
+      213: 4288007901863658186
+    second: Tileset2-Purple_226
+  - first:
+      213: 1927791561519682410
+    second: Tileset2-Purple_227
+  - first:
+      213: 6444492519863646647
+    second: Tileset2-Purple_228
+  - first:
+      213: 506130717879121037
+    second: Tileset2-Purple_229
+  - first:
+      213: -2325809796751448397
+    second: Tileset2-Purple_230
+  - first:
+      213: 3830145061058521563
+    second: Tileset2-Purple_231
+  - first:
+      213: 3626214283229578867
+    second: Tileset2-Purple_232
+  - first:
+      213: -2387451027717051093
+    second: Tileset2-Purple_233
+  - first:
+      213: 5600041460310464504
+    second: Tileset2-Purple_234
+  - first:
+      213: 8910012089750934600
+    second: Tileset2-Purple_235
+  - first:
+      213: -2363116917550209706
+    second: Tileset2-Purple_236
+  - first:
+      213: -5638158648922648801
+    second: Tileset2-Purple_237
+  - first:
+      213: -6806234063926660181
+    second: Tileset2-Purple_238
+  - first:
+      213: 2805921940184973828
+    second: Tileset2-Purple_239
+  - first:
+      213: -1312334847295616757
+    second: Tileset2-Purple_240
+  - first:
+      213: -9201129340353948510
+    second: Tileset2-Purple_241
+  - first:
+      213: 8709851381776324334
+    second: Tileset2-Purple_242
+  - first:
+      213: 8308371170458141924
+    second: Tileset2-Purple_243
+  - first:
+      213: 8246389033636477541
+    second: Tileset2-Purple_244
+  - first:
+      213: 7377792456705286629
+    second: Tileset2-Purple_245
+  - first:
+      213: -4539836677932986559
+    second: Tileset2-Purple_246
+  - first:
+      213: -1017571865828317943
+    second: Tileset2-Purple_247
+  - first:
+      213: 1970085040381730689
+    second: Tileset2-Purple_248
+  - first:
+      213: 4078214526604495867
+    second: Tileset2-Purple_249
+  - first:
+      213: 4640962962289086760
+    second: Tileset2-Purple_250
+  - first:
+      213: -2102236463095689320
+    second: Tileset2-Purple_251
+  - first:
+      213: -97669716271856017
+    second: Tileset2-Purple_252
+  - first:
+      213: -7477155474714895374
+    second: Tileset2-Purple_253
+  - first:
+      213: 1667482226502256691
+    second: Tileset2-Purple_254
+  - first:
+      213: 1790105437693880643
+    second: Tileset2-Purple_255
+  - first:
+      213: 6100414024269785875
+    second: Tileset2-Purple_256
+  - first:
+      213: 2559385303730137044
+    second: Tileset2-Purple_257
+  - first:
+      213: 8618121123739367974
+    second: Tileset2-Purple_258
+  - first:
+      213: 936865303963788026
+    second: Tileset2-Purple_259
+  - first:
+      213: -2479309618963077981
+    second: Tileset2-Purple_260
+  - first:
+      213: 7104118625308384351
+    second: Tileset2-Purple_261
+  - first:
+      213: -8747019389326411231
+    second: Tileset2-Purple_262
+  - first:
+      213: -2111618889853541744
+    second: Tileset2-Purple_263
+  - first:
+      213: 1992745890337977660
+    second: Tileset2-Purple_264
+  - first:
+      213: -7849627374709879061
+    second: Tileset2-Purple_265
+  - first:
+      213: 3700379865060040674
+    second: Tileset2-Purple_266
+  - first:
+      213: 3468041543655408079
+    second: Tileset2-Purple_267
+  - first:
+      213: -33189040881678338
+    second: Tileset2-Purple_268
+  - first:
+      213: -1668257191350550093
+    second: Tileset2-Purple_269
+  - first:
+      213: -6432360568591785408
+    second: Tileset2-Purple_270
+  - first:
+      213: 2021328718006938197
+    second: Tileset2-Purple_271
+  - first:
+      213: 4495273279373444387
+    second: Tileset2-Purple_272
+  - first:
+      213: 1486623517408001901
+    second: Tileset2-Purple_273
+  - first:
+      213: -6292655785326288842
+    second: Tileset2-Purple_274
+  - first:
+      213: -190289967489416476
+    second: Tileset2-Purple_275
+  - first:
+      213: -8274238930368627461
+    second: Tileset2-Purple_276
+  - first:
+      213: -828276959320389429
+    second: Tileset2-Purple_277
+  - first:
+      213: 7848198454057930168
+    second: Tileset2-Purple_278
+  - first:
+      213: -7922201347828345638
+    second: Tileset2-Purple_279
+  - first:
+      213: 3606399038757313022
+    second: Tileset2-Purple_280
+  - first:
+      213: 1100318678814501200
+    second: Tileset2-Purple_281
+  - first:
+      213: 1584307384096153255
+    second: Tileset2-Purple_282
+  - first:
+      213: 7075707403932632114
+    second: Tileset2-Purple_283
+  - first:
+      213: -5618404457870702155
+    second: Tileset2-Purple_284
+  - first:
+      213: 3957261505319566756
+    second: Tileset2-Purple_285
+  - first:
+      213: -4860085680086928663
+    second: Tileset2-Purple_286
+  - first:
+      213: 3525955993289465122
+    second: Tileset2-Purple_287
+  - first:
+      213: -1964270530427823315
+    second: Tileset2-Purple_288
+  - first:
+      213: -5596750354812621070
+    second: Tileset2-Purple_289
+  - first:
+      213: 6897160460399599849
+    second: Tileset2-Purple_290
+  - first:
+      213: 3998064207597535637
+    second: Tileset2-Purple_291
+  - first:
+      213: -5858848511546959185
+    second: Tileset2-Purple_292
+  - first:
+      213: 3250662885730735692
+    second: Tileset2-Purple_293
+  - first:
+      213: 5726257754169301788
+    second: Tileset2-Purple_294
+  - first:
+      213: -1435910109532458003
+    second: Tileset2-Purple_295
+  - first:
+      213: -4463055040289422850
+    second: Tileset2-Purple_296
+  - first:
+      213: -277473760835789849
+    second: Tileset2-Purple_297
+  - first:
+      213: -202305756061921421
+    second: Tileset2-Purple_298
+  - first:
+      213: -449666808058975409
+    second: Tileset2-Purple_299
+  - first:
+      213: -284989252993147921
+    second: Tileset2-Purple_300
+  - first:
+      213: 1063474947219390278
+    second: Tileset2-Purple_301
+  - first:
+      213: -843225049942723232
+    second: Tileset2-Purple_302
+  - first:
+      213: -7252862801514053080
+    second: Tileset2-Purple_303
+  - first:
+      213: -1064923219922607148
+    second: Tileset2-Purple_304
+  - first:
+      213: 7405436316838064598
+    second: Tileset2-Purple_305
+  - first:
+      213: -6521109277158460860
+    second: Tileset2-Purple_306
+  - first:
+      213: -4999397310149258727
+    second: Tileset2-Purple_307
+  - first:
+      213: 7729025081037190554
+    second: Tileset2-Purple_308
+  - first:
+      213: 7967555673213407006
+    second: Tileset2-Purple_309
+  - first:
+      213: 3367811490644789344
+    second: Tileset2-Purple_310
+  - first:
+      213: -8915545917942570811
+    second: Tileset2-Purple_311
+  - first:
+      213: -4436638640294545338
+    second: Tileset2-Purple_312
+  - first:
+      213: 4622099681698985917
+    second: Tileset2-Purple_313
+  - first:
+      213: -753102351178131614
+    second: Tileset2-Purple_314
+  - first:
+      213: -3344785870957941675
+    second: Tileset2-Purple_315
+  - first:
+      213: 7975253086463263237
+    second: Tileset2-Purple_316
+  - first:
+      213: 3850671332929921781
+    second: Tileset2-Purple_317
+  - first:
+      213: 2706386956430643781
+    second: Tileset2-Purple_318
+  - first:
+      213: 8679322165390397866
+    second: Tileset2-Purple_319
+  - first:
+      213: 6246161647651660774
+    second: Tileset2-Purple_320
+  - first:
+      213: -545261076347490686
+    second: Tileset2-Purple_321
+  - first:
+      213: 2728892621196473508
+    second: Tileset2-Purple_322
+  - first:
+      213: 3353740186273991200
+    second: Tileset2-Purple_323
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset2-Purple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5cb17da17caecc0800000000000000
+      internalID: -3680910827329960498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d74517192299f3b0800000000000000
+      internalID: -5478186766540912686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3768132799201aab0800000000000000
+      internalID: -4998711253335439757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a4a5dafba4d6780800000000000000
+      internalID: -8688205919020234174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338db9c55697e5840800000000000000
+      internalID: 5214738894793988147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaea15b821b9fde60800000000000000
+      internalID: 7989274767927652014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1087d4ced067501b0800000000000000
+      internalID: -5691012751941601279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d335b2af936281260800000000000000
+      internalID: 7068441645610128189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51c312799dc8eb30800000000000000
+      internalID: 4316926301762208095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ee8ed7d3fcd70c0800000000000000
+      internalID: -4576273783326183908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de26c9dbbafeac9f0800000000000000
+      internalID: -447281692070354195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513097ea0f25d03f0800000000000000
+      internalID: -932998354123029739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5973c2c2687aa7820800000000000000
+      internalID: 2916827903384369045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2ac293e83ceef30800000000000000
+      internalID: 4606834484458595057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913680f96fc2ef5e0800000000000000
+      internalID: -1874010957197843687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f221a55d92c0340800000000000000
+      internalID: 4831282496577613642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbce6713dc5781400800000000000000
+      internalID: 295115299751390396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f8a96d189225530800000000000000
+      internalID: 3842179069728427804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a64d2dc2a2fc70800000000000000
+      internalID: 9003437607178643358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68999b77ba3669f30800000000000000
+      internalID: 4581959258995267974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaac1889c2208780800000000000000
+      internalID: -8682901832602965332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c1147e1378fe2a0800000000000000
+      internalID: -6705992671728427921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997f326f7184528c0800000000000000
+      internalID: -4024731424234670183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70455b11a49f970e0800000000000000
+      internalID: -2271510440511712249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0221017eebf4bd0800000000000000
+      internalID: -2643684556626845520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150964458c3363fa0800000000000000
+      internalID: -5821408532829401007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72fd26642b942ae0800000000000000
+      internalID: -1574963389037415809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff43e219bcdd97f0800000000000000
+      internalID: -604084087553830922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4daf6ad4f5cd1db0800000000000000
+      internalID: -4819478370789118641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7efb9085d644750800000000000000
+      internalID: 6288271204604176312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391f0080ea10ef6d0800000000000000
+      internalID: -2954922458538249837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c510e2f1a037800800000000000000
+      internalID: 608841503657253979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964b9dbbabfd6f900800000000000000
+      internalID: 718007183720690793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acae9c49c074b2430800000000000000
+      internalID: 3759176433332251338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a29fc5796095d960800000000000000
+      internalID: 7626160326644306593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258db7585c53067d0800000000000000
+      internalID: -2927280635326506926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d7e85fc7f9a0950800000000000000
+      internalID: 6416115978187210003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f399d5bbd15fa00800000000000000
+      internalID: 789570000239804228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243aca80f6ad2bb30800000000000000
+      internalID: 4301740764514001730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d363f00972796850800000000000000
+      internalID: 6370749011924837333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732a15f665bacd8e0800000000000000
+      internalID: -1667269374310768073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3291386e3761b190800000000000000
+      internalID: -7948458349598502337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b83d2840a70fa590800000000000000
+      internalID: -7660896056146839376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797af286445934960800000000000000
+      internalID: 7585070318460315543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0784be4b055bb20800000000000000
+      internalID: 3149512252387258557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384e1d88d30e770f0800000000000000
+      internalID: -1119179427485195133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5b858b4a4af3bd0800000000000000
+      internalID: -2648217028496149086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846798a01793ca800800000000000000
+      internalID: 624937605968524872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2fe6358f8e8f900800000000000000
+      internalID: 718580293814907623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba7f5feaeca70e20800000000000000
+      internalID: 3316809775619996341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278ab0fc7928a5600800000000000000
+      internalID: 457821900656846962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5102bc330b00b90800000000000000
+      internalID: -7277623261333023252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea51e06fcf5a8ac0800000000000000
+      internalID: -3852161186973787419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_53
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecd135e74a6d6880800000000000000
+      internalID: -8616113655069418266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b9f1677ceba5f00800000000000000
+      internalID: 1106406422362430208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f0c5dc9676c3fb0800000000000000
+      internalID: -4666741409748086957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb5bf9c80ca7d100800000000000000
+      internalID: 132763867779128303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e957a8e4866f00800000000000000
+      internalID: 1109720492968372531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aa1ebe82bf0e720800000000000000
+      internalID: 2873572715437075063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd90912735aa280800000000000000
+      internalID: -9031314353226654454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8405e14fa2757a860800000000000000
+      internalID: 7541091943051055176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9207a18296cbfaf60800000000000000
+      internalID: 8047858218964774953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a206bd24c00e20720800000000000000
+      internalID: 2811055460698513450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9938b647616c680800000000000000
+      internalID: -8735269737962694155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc95c7ed118947d50800000000000000
+      internalID: 6734174545340291532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_65
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303895066c5405ce0800000000000000
+      internalID: -1418557164299386109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c918f21b3012b60800000000000000
+      internalID: 7719455295830858850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_67
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa7dbfc1a4bccb10800000000000000
+      internalID: 2003174541341063923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e09cd0dc334ec40800000000000000
+      internalID: 5540610397365145230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaccc86b9f54de00800000000000000
+      internalID: 1068584132676471518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478dd04c49975b500800000000000000
+      internalID: 411368620825630836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d100102f8493ca2c0800000000000000
+      internalID: -4419094148896718819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6e2d499dc82e820800000000000000
+      internalID: 2946071972386367187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8d67ff153317110800000000000000
+      internalID: 1256842198284425384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbbcdb29841885a0800000000000000
+      internalID: -6518937881239831590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee849e33cb98c7200800000000000000
+      internalID: 179169526605760750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaee0f1b6d71a060800000000000000
+      internalID: 6962984397927541437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33da69b1897c77ba0800000000000000
+      internalID: -6091180514883490509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aa5e33776e56390800000000000000
+      internalID: -7825595377840182689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb64d46147f6000800000000000000
+      internalID: 31371361549467157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087e56a332d8f3180800000000000000
+      internalID: -9133426336840947840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2504382f9eb8f10800000000000000
+      internalID: 2273167664731935439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f041dbde8bb5d0800000000000000
+      internalID: -3045683648226331267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf8ef4b027076300800000000000000
+      internalID: 245172541771911113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93429e2ab40297740800000000000000
+      internalID: 5150183158102697017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_85
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eeefd60128c0560800000000000000
+      internalID: 7281337704627760662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_86
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506ea349f991b1430800000000000000
+      internalID: 3754622887520822789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34e9da975aca43f0800000000000000
+      internalID: -915697096607538115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3d1cbf557d6f990800000000000000
+      internalID: -7352452577339780136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_89
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec22a4bca9ba3f60800000000000000
+      internalID: 8014922638275259617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7e7b7f9accf0670800000000000000
+      internalID: 8507243251503720359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3899e37d86f25200800000000000000
+      internalID: 167467223561639997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64512209eb0db82e0800000000000000
+      internalID: -2122373282494540474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39248cd7d30729d90800000000000000
+      internalID: -7092483053749517677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2af2fd027815b80800000000000000
+      internalID: -8407790454070861136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d96bccf77677c7a0800000000000000
+      internalID: -6356982091295790631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d01309bef3d8fd0800000000000000
+      internalID: -2338142350566421226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59776184049176340800000000000000
+      internalID: 4856878487020402581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f5ab77399e1a020800000000000000
+      internalID: 2351417300042276669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c75db4b12ed68320800000000000000
+      internalID: 2559977674554300353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c269af863e803f0800000000000000
+      internalID: -934246882659128307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add303c6bb916b4d0800000000000000
+      internalID: -3119277399142810150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a702fcbd5ecb1a0800000000000000
+      internalID: -6792301405745939966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aaf46d8b765a6f0800000000000000
+      internalID: -674018525654832611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bcd73f781b85fd0800000000000000
+      internalID: -2352935607837275358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5ad2f27b33655d0800000000000000
+      internalID: -3074212833770232349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340110a40716f0460800000000000000
+      internalID: 7210088663349268547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_107
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e37ec30a0ca33f0800000000000000
+      internalID: -920211379394756972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbf88b7b1d806730800000000000000
+      internalID: 3990344419026467807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30bc6f10a3674540800000000000000
+      internalID: 4992068251336618044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4888cdf55969f2750800000000000000
+      internalID: 6282405573507713156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856374cbc4c74cc90800000000000000
+      internalID: -7150453639339362728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b93cb41708c0bf20800000000000000
+      internalID: 3436466448421894584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52460984e1c1db9d0800000000000000
+      internalID: -2757016480488856539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9458f38489447d0800000000000000
+      internalID: -2935053621067953743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_115
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109277cf7e44a4ee0800000000000000
+      internalID: -1276131781242312447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8fe6097d32bc9d0800000000000000
+      internalID: -2753067338458793818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_117
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe52e0ff5bb74a800800000000000000
+      internalID: 622758670082385391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e61e98cceb8677d0800000000000000
+      internalID: -2920993459208841495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_119
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d1b776555b292e0800000000000000
+      internalID: -2120433096125113007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e0d970fdfdf4d00800000000000000
+      internalID: 959231394651639317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_121
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a021aac49fd6960800000000000000
+      internalID: 7597002254110034438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23d6f148e4826260800000000000000
+      internalID: 7089374896508556077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e07e9f5c0d13d720800000000000000
+      internalID: 2869669326546170086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac8ea2c379375540800000000000000
+      internalID: 4996525480941096104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_125
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95447c4f15c974a0800000000000000
+      internalID: -6595023441090034277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5326522835da39c0800000000000000
+      internalID: -3946607686365863075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_127
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cc90ddaf842d2d0800000000000000
+      internalID: -3255459338348016511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4723c2a34b56ca3b0800000000000000
+      internalID: -5499909220181724556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ae0db26273852c0800000000000000
+      internalID: -4442740395317597580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95454b10a5057e690800000000000000
+      internalID: -7572995900894325671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_131
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3c564146a95f100800000000000000
+      internalID: 141188717961659365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75718541b2ffe38a0800000000000000
+      internalID: -6323336266291603625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_133
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa1e83b186e62b90800000000000000
+      internalID: -7266867503978112272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7fdc7c6a9a4e610800000000000000
+      internalID: 1649629897306273696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f772702d279868f30800000000000000
+      internalID: 4577497197511649151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_136
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63879a3585a07e820800000000000000
+      internalID: 2947335855614294070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_137
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55989cf3f788ba80800000000000000
+      internalID: -8450855218776074915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fcff5fece7945f0800000000000000
+      internalID: -771946433761784014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_139
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edca5f15ecafa0a0800000000000000
+      internalID: -6868080806643184158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_140
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bba30a562d9f73b0800000000000000
+      internalID: -5512514630833689674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f823474bc4f8880800000000000000
+      internalID: -8606576024954433698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_142
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58eb7b1c34b20de0800000000000000
+      internalID: -1368333166515066785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_143
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e5bbdbce40ef990800000000000000
+      internalID: -7350432126980104634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0375e56d93c83cb0800000000000000
+      internalID: -4883938715096485107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b6793972f50a170800000000000000
+      internalID: 8187648746144099218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e5cbb072e3f6790800000000000000
+      internalID: -7534735314146009465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_147
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c40d7e21c9edd610800000000000000
+      internalID: 1647730054605374662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205a9eceacb680b70800000000000000
+      internalID: 8865454385781122306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63039083602331490800000000000000
+      internalID: -7776817129247395786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe38be446f8cd4140800000000000000
+      internalID: 4705638145715831791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dd5372bf70fe460800000000000000
+      internalID: 7273040698502667567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98dec31f56fefcb0800000000000000
+      internalID: -4828150862279944036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_153
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4d2473f2ef25640800000000000000
+      internalID: 5067392009489274041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_154
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c937dedbd92e60b80800000000000000
+      internalID: -8428800485453106276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_155
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543c5077ba669a910800000000000000
+      internalID: 1849122008634606405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d0a487a7e411520800000000000000
+      internalID: 2671002341918510393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_157
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0756bd1848a15f6d0800000000000000
+      internalID: -2957428423882218128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48ea46cecd21fb80800000000000000
+      internalID: -8362852666936989619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_159
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47cff20091686f10800000000000000
+      internalID: 2263166083907176266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_160
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b697828ac5dce800800000000000000
+      internalID: 643123912557172403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_161
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60254f88bed518fc0800000000000000
+      internalID: -3494408569666383354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606a3c7eeb96282c0800000000000000
+      internalID: -4430862814726085114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_163
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a70a409607c2390800000000000000
+      internalID: -7841769254807373185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce216fb1ef6a11d0800000000000000
+      internalID: -3379265555018993978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_165
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0378cb51cc9d84670800000000000000
+      internalID: 8523301765359896368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_166
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddd04b62908d8770800000000000000
+      internalID: 8614683028582620627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_167
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0727c58c7f452dc70800000000000000
+      internalID: 8994344829007458928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc518f24d9b23f70800000000000000
+      internalID: 9165592512633593012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_169
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac8939b36aaa4d10800000000000000
+      internalID: 2110686720662539437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6ccf5e2d4277060800000000000000
+      internalID: 6951065038089930431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_171
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058d84b08c8f189d0800000000000000
+      internalID: -2773662357417043888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_172
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b2ea3d8d510fc90800000000000000
+      internalID: -7138181388373710000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_173
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b302d775a26585760800000000000000
+      internalID: 7446796723713548347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02487b306e627cc0800000000000000
+      internalID: -3714785383033585141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e84976f00c85440800000000000000
+      internalID: 4924897364924468758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_176
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cba4036c31c30400800000000000000
+      internalID: 289287266185292745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_177
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85ae8635f0f40c00800000000000000
+      internalID: 866081964334949774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b840573beba866b0800000000000000
+      internalID: -5302799534495086410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_179
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42824187bf3db6a00800000000000000
+      internalID: 750926839892158500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d6278573d194bc0800000000000000
+      internalID: -3798472687166001848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_181
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88a9dcf0ff1fe300800000000000000
+      internalID: 283480421442365580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ea115eeb7934870800000000000000
+      internalID: 8665936954133687823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_183
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1463b8c10feb81590800000000000000
+      internalID: -7703197224136919487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7530957ab54f510800000000000000
+      internalID: 1581990143424944124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_185
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328eb01773d3a1dd0800000000000000
+      internalID: -2514630133603899357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_186
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9db36cf405aa130800000000000000
+      internalID: 3578761157457729958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_187
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8543c2a1d3483f0800000000000000
+      internalID: -899526842947184448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1094eef8c76830fc0800000000000000
+      internalID: -3529829813379512063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_189
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0639524672abad0800000000000000
+      internalID: -2685790916692451114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_190
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6746a74e42e4cf0800000000000000
+      internalID: -266234764243732773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_191
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2ceb139db049430800000000000000
+      internalID: 3788666213995823803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_192
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3fdeceab0280a80800000000000000
+      internalID: -8500508309450787865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_193
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deda4a239cea53770800000000000000
+      internalID: 8589964043440401901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_194
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbcd62ee0f22f510800000000000000
+      internalID: 1581378160135359418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_195
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a70adc9f24096ce0800000000000000
+      internalID: -1411592405662431327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e646b142799c78b0800000000000000
+      internalID: -5153075157610903838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_197
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2daa72306070760800000000000000
+      internalID: 7423909121363727059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91e21187d137b000800000000000000
+      internalID: 51564722391277981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_199
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57564f8a7a5397270800000000000000
+      internalID: 8248683186716173685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_200
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9266c56cf3e383710800000000000000
+      internalID: 1673155705199945257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_201
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f26d6e654aa7e30800000000000000
+      internalID: 4502091470657171203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d70ec5de479d1dd0800000000000000
+      internalID: -2513686652152576047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_203
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aee75dfc0862940800000000000000
+      internalID: 5271042044012194410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_204
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df07aacd9a9b68cd0800000000000000
+      internalID: -2556151599283408643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_205
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44966e32732ee1840800000000000000
+      internalID: 5196839746485512516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_206
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5f570500cfdf2b0800000000000000
+      internalID: -5549002087570475536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_207
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9929662e8fef2b0800000000000000
+      internalID: -5548724039606691393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b959bf7d7ffd4c410800000000000000
+      internalID: 1496567231767352731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_209
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3c3a17c4178aef0800000000000000
+      internalID: -96702818850454531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_210
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed2d54cc5aeab950800000000000000
+      internalID: 6465737899196100065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_211
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799c6ceee837a2920800000000000000
+      internalID: 2966310362305448343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_212
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d405fc64bd8cc1fc0800000000000000
+      internalID: -3522719964399185843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_213
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5d5b23734959cd0800000000000000
+      internalID: -2551970649040628241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_214
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0a905aa3fdd5d60800000000000000
+      internalID: 7880700365938204876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_215
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ae1dc02c192c160800000000000000
+      internalID: 7044353029785643551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75ff50ca680eb550800000000000000
+      internalID: 6178384993385969020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_217
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c0cc29a18718610800000000000000
+      internalID: 1621709396357418038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_218
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414741d488ca8a1d0800000000000000
+      internalID: -3339229422286506988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_219
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2f7f13882316c0800000000000000
+      internalID: -4173947886008063286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_220
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e2fec74f4009550800000000000000
+      internalID: 6165433337984790100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_221
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402639a348cd72cc0800000000000000
+      internalID: -3735774905404005884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_222
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d2c0c9114a24cc0800000000000000
+      internalID: -3728237145969906406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_223
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd352fabfecc78d60800000000000000
+      internalID: 7892502201995776991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f064bfebbb79cdf0800000000000000
+      internalID: -159460264684265225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_225
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36acc9b52f6d07ed0800000000000000
+      internalID: -2418196663490524573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_226
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2c6a8c770128b30800000000000000
+      internalID: 4288007901863658186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_227
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6350691634e0ca10800000000000000
+      internalID: 1927791561519682410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9722c6dcf6f6950800000000000000
+      internalID: 6444492519863646647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_229
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d843911d433260700800000000000000
+      internalID: 506130717879121037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_230
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6a181005019bfd0800000000000000
+      internalID: -2325809796751448397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_231
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd92c9ad3a8672530800000000000000
+      internalID: 3830145061058521563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_232
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376c8579da6e25230800000000000000
+      internalID: 3626214283229578867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_233
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2da84680f11eded0800000000000000
+      internalID: -2387451027717051093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7d341b90857bd40800000000000000
+      internalID: 5600041460310464504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_235
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8445a02d9c8b6ab70800000000000000
+      internalID: 8910012089750934600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_236
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65524be0fa5843fd0800000000000000
+      internalID: -2363116917550209706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_237
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f4bafb49c31c1b0800000000000000
+      internalID: -5638158648922648801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_238
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3fc790e266b81a0800000000000000
+      internalID: -6806234063926660181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_239
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40243306323a0f620800000000000000
+      internalID: 2805921940184973828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_240
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b090490d866a9cde0800000000000000
+      internalID: -1312334847295616757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_241
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a457c75d950f4080800000000000000
+      internalID: -9201129340353948510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee619395fab9fd870800000000000000
+      internalID: 8709851381776324334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_243
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e401455f834d4370800000000000000
+      internalID: 8308371170458141924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_244
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a3495822f017270800000000000000
+      internalID: 8246389033636477541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_245
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1a970762f236660800000000000000
+      internalID: 7377792456705286629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fc38138924ff0c0800000000000000
+      internalID: -4539836677932986559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_247
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9052fd387cbd0e1f0800000000000000
+      internalID: -1017571865828317943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_248
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f934108e5275b10800000000000000
+      internalID: 1970085040381730689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_249
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb4910318ab89830800000000000000
+      internalID: 4078214526604495867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_250
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8215cfea933086040800000000000000
+      internalID: 4640962962289086760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_251
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fce4f231b53d2e0800000000000000
+      internalID: -2102236463095689320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f668d4819e105aef0800000000000000
+      internalID: -97669716271856017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_253
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb504f16becb3890800000000000000
+      internalID: -7477155474714895374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_254
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338c1f31046142710800000000000000
+      internalID: 1667482226502256691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_255
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3492d34496bb7d810800000000000000
+      internalID: 1790105437693880643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_256
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b6963db3609a450800000000000000
+      internalID: 6100414024269785875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_257
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7a030af53c48320800000000000000
+      internalID: 2559385303730137044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_258
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a76c35087b99770800000000000000
+      internalID: 8618121123739367974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_259
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2662db70a600d00800000000000000
+      internalID: 936865303963788026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_260
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a42f799909b79dd0800000000000000
+      internalID: -2479309618963077981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_261
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c1ebf1046e69260800000000000000
+      internalID: 7104118625308384351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_262
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12abeb785385c9680800000000000000
+      internalID: -8747019389326411231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_263
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0926649bec502b2e0800000000000000
+      internalID: -2111618889853541744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_264
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35f63944d7a7ab10800000000000000
+      internalID: 1992745890337977660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_265
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee4c37ed75801390800000000000000
+      internalID: -7849627374709879061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_266
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef59eeb1e36a5330800000000000000
+      internalID: 3700379865060040674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_267
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1c0e3d865f02030800000000000000
+      internalID: 3468041543655408079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_268
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7cfcf3eb61a8ff0800000000000000
+      internalID: -33189040881678338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_269
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b14f8b5ce829d8e0800000000000000
+      internalID: -1668257191350550093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0426bd9942aabb6a0800000000000000
+      internalID: -6432360568591785408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_271
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a691372c33d0c10800000000000000
+      internalID: 2021328718006938197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_272
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3250c590b3b626e30800000000000000
+      internalID: 4495273279373444387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_273
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f78dd663c81a410800000000000000
+      internalID: 1486623517408001901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_274
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630e1d537eefba8a0800000000000000
+      internalID: -6292655785326288842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_275
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e209736844fb5df0800000000000000
+      internalID: -190289967489416476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_276
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc7ba8188ffb2d80800000000000000
+      internalID: -8274238930368627461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_277
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc841107e7e5184f0800000000000000
+      internalID: -828276959320389429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_278
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd84e499e66aec60800000000000000
+      internalID: 7848198454057930168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_279
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4129709dfae0290800000000000000
+      internalID: -7922201347828345638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_280
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9907771d08c0230800000000000000
+      internalID: 3606399038757313022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_281
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0592776320e154f00800000000000000
+      internalID: 1100318678814501200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_282
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae541cfb279cf510800000000000000
+      internalID: 1584307384096153255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_283
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234810a2566f13260800000000000000
+      internalID: 7075707403932632114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_284
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b94524c9ea6702b0800000000000000
+      internalID: -5618404457870702155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_285
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad76e36f540be630800000000000000
+      internalID: 3957261505319566756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_286
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2b474e2d18d8cb0800000000000000
+      internalID: -4860085680086928663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_287
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d9da96b46bee030800000000000000
+      internalID: 3525955993289465122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bd4171c528db4e0800000000000000
+      internalID: -1964270530427823315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_289
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe2ad484395452b0800000000000000
+      internalID: -5596750354812621070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_290
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0ecf065e2a7bf50800000000000000
+      internalID: 6897160460399599849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_291
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5910e03d63afb7730800000000000000
+      internalID: 3998064207597535637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_292
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faada6cf15031bea0800000000000000
+      internalID: -5858848511546959185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_293
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46d68cfbacac1d20800000000000000
+      internalID: 3250662885730735692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_294
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b5691a611c77f40800000000000000
+      internalID: 5726257754169301788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_295
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3fce7fc5f921ce0800000000000000
+      internalID: -1435910109532458003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_296
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1488e461b0012c0800000000000000
+      internalID: -4463055040289422850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_297
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb14eaa517362cf0800000000000000
+      internalID: -277473760835789849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_298
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f89e99cf3413df0800000000000000
+      internalID: -202305756061921421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_299
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b6c56ab6672c9f0800000000000000
+      internalID: -449666808058975409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_300
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb1a8ac8c38b0cf0800000000000000
+      internalID: -284989252993147921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_301
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ff98874d832ce00800000000000000
+      internalID: 1063474947219390278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_302
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065f370e8434c44f0800000000000000
+      internalID: -843225049942723232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_303
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8224c1795b7a85b90800000000000000
+      internalID: -7252862801514053080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_304
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3a27349f1a831f0800000000000000
+      internalID: -1064923219922607148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_305
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1f8ef281565c660800000000000000
+      internalID: 7405436316838064598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_306
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4423779a9ad5085a0800000000000000
+      internalID: -6521109277158460860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_307
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912928562a29e9ab0800000000000000
+      internalID: -4999397310149258727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_308
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a957e4f6c53034b60800000000000000
+      internalID: 7729025081037190554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_309
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f880ebba1729e60800000000000000
+      internalID: 7967555673213407006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_310
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0688c5215bedcbe20800000000000000
+      internalID: 3367811490644789344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_311
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c06956693e954480800000000000000
+      internalID: -8915545917942570811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_312
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648b878b9a4ed62c0800000000000000
+      internalID: -4436638640294545338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_313
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db73d1ceb2ff42040800000000000000
+      internalID: 4622099681698985917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_314
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2671486d6617c85f0800000000000000
+      internalID: -753102351178131614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_315
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c6ec7c8fee491d0800000000000000
+      internalID: -3344785870957941675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_316
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5020b7c6d6acdae60800000000000000
+      internalID: 7975253086463263237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_317
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f26112fc25507530800000000000000
+      internalID: 3850671332929921781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_318
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5429cca09940f8520800000000000000
+      internalID: 2706386956430643781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_319
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1d44f3685237870800000000000000
+      internalID: 8679322165390397866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_320
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e322f9cce2dea650800000000000000
+      internalID: 6246161647651660774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_321
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ee572a0f7de68f0800000000000000
+      internalID: -545261076347490686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_322
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4b9947169fed520800000000000000
+      internalID: 2728892621196473508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset2-Purple_323
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a40d73ee0ea8e20800000000000000
+      internalID: 3353740186273991200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

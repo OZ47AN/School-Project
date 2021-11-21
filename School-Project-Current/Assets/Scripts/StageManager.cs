@@ -6,6 +6,8 @@ using UnityEngine.SceneManagement;
 public class StageManager : MonoBehaviour
 {
 	public GameObject greenWall;
+    public GameObject blueWall;
+
     private bool onlyOneTime = true;
     public static bool canLoadNewScene;
 
@@ -16,15 +18,26 @@ public class StageManager : MonoBehaviour
 
     private void Update()
     {
-        if (PlayerMovement.nextStage == 1 && onlyOneTime == true && canLoadNewScene == true)
+        if (PlayerWeapon.nextStage == 1 && onlyOneTime == true && canLoadNewScene == true)
         {
-            Invoke("ChangeWallColor", .5f);
+            Invoke("greenWallColor", .5f);
+            onlyOneTime = false;
+        }
+        else if (PlayerWeapon.nextStage == 2 && onlyOneTime == true && canLoadNewScene == true)
+        {
+            Invoke("blueWallColor", .5f);
             onlyOneTime = false;
         }
     }
 
-    public void ChangeWallColor()
+    public void greenWallColor()
     {
         greenWall.SetActive(true);
+    }
+
+    public void blueWallColor()
+    {
+        greenWall.SetActive(false);
+        blueWall.SetActive(true);
     }
 }

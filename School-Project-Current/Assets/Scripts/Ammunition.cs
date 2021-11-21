@@ -17,7 +17,7 @@ public class Ammunition : MonoBehaviour
 
     void Update()
     {
-        rifleAmmunationText.text = "Ammunation: " + PlayerMovement.rifleAmmunation.ToString();
-        bombAmountText.text = "Bombs left: " + PlayerMovement.bombsAmount.ToString();
+        rifleAmmunationText.text = "Ammunation: " + PlayerWeapon.rifleAmmunation.ToString();
+        bombAmountText.text = "Bombs left: " + PlayerWeapon.bombsAmount.ToString();
     }
 }

@@ -22,7 +22,7 @@ public class BowSlider : MonoBehaviour
         {
             if (slider.value == 5)
             {
-                PlayerMovement.canShootBow = true;
+                PlayerWeapon.canShootBow = true;
                 slider.value = 0;
             }
             else

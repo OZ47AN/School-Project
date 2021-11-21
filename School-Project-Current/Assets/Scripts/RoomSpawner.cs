@@ -21,7 +21,7 @@ public class RoomSpawner : MonoBehaviour
     {
         if (Input.GetButton("Jump"))
         {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(1);
         }
     }
 

@@ -8,7 +8,7 @@ public class BossRoom : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "BossTag")
+        if (collision.gameObject.tag == "DevilBoss")
         {
             BossGround.SetActive(true);
         }

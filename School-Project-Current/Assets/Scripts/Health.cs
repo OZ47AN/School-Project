@@ -76,4 +76,14 @@ public class Health : MonoBehaviour
             health += 1;
         }
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "EyeEnemyBullet" && isInvincible == false)
+        {
+            isInvincible = true;
+            health -= 1;
+            CameraShake.Instance.ShakeCamera(0.5f, .1f);
+        }
+    }
 }
